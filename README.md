@@ -1,0 +1,2 @@
+# rizz.json
+Data
