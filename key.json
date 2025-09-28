@@ -1,2 +1,18 @@
-# rizz.json
-Data
+{
+  "allowed_tokens": [
+    "8496992955:AAHcXRcMwXswRvKdXpSGzqnBk4duOj0yLR4",
+    "8390583517:AAFLPGbCGWUfxbvmAgW9BMTYqdtn49Wuzlw",
+    "7575159884:AAFsAehdVrdJ5zuCFeUpejfGks6j-0bIm4M",
+    "8454574282:AAHyxkn_tq2HpsHV4uHoeLNIsuFVxXTQSHo",
+    "8060815806:AAF97WUdgwZ1WQqhsSwrsBMc3pe3znS_dD4",
+    "7968827322:AAGf7AsvFrXutiiwVCYDYUxWCVwXr-2ed34",
+    "8124691892:AAHQCzk_khYmpphM_lvUz-cqouErAVvFuXg",
+    "7996783850:AAHZTNnvJZzRTavMyEjnIWIF-igqbMv42SM",
+    "8302161110:AAFZrL_4h4NcZ1ALLTzaUODJvjt4qaoAPHc",
+    "7987654904:AAFHjBeqIEY3cvieavJzibc-dxuRQfy0nJI",
+    "8491845651:AAEzkeXsqnUqSswu96PSp2jMgmKiKQYOB4o"
+  ],
+    "allowed_keys": [
+    "rokoksusu"
+  ]
+}
